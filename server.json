@@ -1,7 +1,7 @@
 {
   "version": 3,
-  "release": "3.5.4",
+  "release": "4.0.0",
   "stationId": "af204a5e-05fd-4903-83d2-a4b8c369bf4c",
-  "endpoint": "https://associates-date-term-airports.trycloudflare.com",
-  "updated": "2026-10-06T22:33:24.524Z"
+  "endpoint": "https://matches-interface-singer-bosnia.trycloudflare.com",
+  "updated": "2026-10-07T23:29:06.193Z"
 }
